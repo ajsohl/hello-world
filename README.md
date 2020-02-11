@@ -1,2 +1,3 @@
 # hello-world
-A practice project
+# A practice project
+print("hello world")
